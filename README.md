@@ -1,4 +1,4 @@
-# Dev[0] - <h1 align="center"> Hi Devs :facepunch:</h1>
+# Dev[0] - Hi Devs :facepunch:
 
 My name is Jonas and I love programming and its way of dealing with the world's problems and abstracting from programs that help other people's lives.
 I am currently learning to program to become a full stack :rocket: 
