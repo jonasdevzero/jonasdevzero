@@ -10,10 +10,10 @@ I am currently learning to program to become a full stack :rocket:
 
 :e-mail:  &nbsp; My contacts:
 
-<a href="https://www.linkedin.com/in/jonas-de-oliveira-0561961ab/">
+<a target="_blank" href="https://www.linkedin.com/in/jonas-de-oliveira-0561961ab/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:jonasdevzero@gmail.com">
+<a target="_blank" href="mailto:jonasdevzero@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
