@@ -23,11 +23,11 @@ I am currently learning to program to become a full stack :rocket:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/vscode.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/js.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/html.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/css-dark.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/css.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/node.svg" />
 <img align="left" alt="React" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/react.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/github.svg" />
 <img align="left" alt="Git" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/git.svg" />
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/mongodb.svg" />
-<img align="left" alt="SQL" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/sql.svg />
+<img align="left" alt="SQL" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/sql.svg" />
 <img align="left" alt="Terminal" width="40px" src="https://github.com/jonasdevzero/Assets/blob/master/terminal.svg" />
