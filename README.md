@@ -22,6 +22,7 @@ I am currently learning to program to become a full stack :rocket:
 ## Language and Tools
 <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/vscode.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/js.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/typescript.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/html.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/css.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/node.svg" />
