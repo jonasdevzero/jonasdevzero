@@ -30,7 +30,6 @@ I am currently learning to program to become a full stack :rocket:
 <img align="left" alt="GitHub" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/github.svg" />
 <img align="left" alt="Git" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/git.svg" />
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/mongodb.svg" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/sql.svg" />
 <img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/postgresql.svg" />
 <img align="left" alt="Terminal" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/terminal.svg" />
 <img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/insomnia.svg" />
