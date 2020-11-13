@@ -3,7 +3,7 @@
 My name is Jonas, also known as devzero, and I :heart: programming and its way of dealing with the world's problems and abstracting from programs that help other people's lives.
 I am currently learning to program to become a full stack :rocket: 
 
-<br /> :mortar_board: &nbsp; I am currently committed to learning more about React
+<br /> :mortar_board: &nbsp; I am currently committed to learning more about React and Typescript
 <br /> :muscle: &nbsp; I can help you with javascript, css, html, React and Node
 <br /> :octocat: &nbsp; My stack: Node.js and React.js 
 <br /> :speech_balloon:  &nbsp; about me: I love to program, to play games and listen to musics
