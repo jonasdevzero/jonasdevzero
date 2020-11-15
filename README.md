@@ -25,6 +25,7 @@ I am currently learning to program to become a full stack :rocket:
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/typescript.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/html.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/css.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/styled-components.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/node.svg" />
 <img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/express.svg" />
 <img align="left" alt="React" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/react.svg" />
