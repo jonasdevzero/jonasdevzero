@@ -7,7 +7,7 @@ I am currently learning to program to become a full stack :rocket:
 <br /> :muscle: &nbsp; I can help you with javascript, css, html, React and Node
 <br /> :octocat: &nbsp; My stack: Node and React.js 
 <br /> :speech_balloon:  &nbsp; About me: I love to program, to play games and listen to musics
-<br /> :fire: &nbsp; Currently a little interested in learning elixir for the backend
+<br /> :fire: &nbsp; Currently a little interested in learning elixir
 
 :e-mail:  &nbsp; My contacts:
 
