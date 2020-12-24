@@ -8,6 +8,8 @@ I am currently learning to program to become a full stack :rocket:
 <br /> :octocat: &nbsp; My stack: Node and React.js 
 <br /> :speech_balloon:  &nbsp; About me: I love to program, to play games and listen to music
 
+Attention, I will come back fully in January
+
 :e-mail:  &nbsp; My contacts:
 
 <a target="_blank" href="https://www.linkedin.com/in/jonasdevzero">
