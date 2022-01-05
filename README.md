@@ -9,7 +9,7 @@ I am currently learning to program to become a full stack :rocket:
 <br /> :speech_balloon:  &nbsp; About me: I love to program, to play games and listen to music
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/jonasdevzero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasdevzero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasdevzero&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -31,9 +31,8 @@ I am currently learning to program to become a full stack :rocket:
 <img align="left" alt="Terminal" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/terminal.svg" />
 <img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/insomnia.svg" />
 
-<br /><br /><br />
-:e-mail:  &nbsp; My contacts:
-
+<br /><br />
+  
 <a target="_blank" href="https://www.linkedin.com/in/jonasdevzero">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
