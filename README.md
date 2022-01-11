@@ -15,21 +15,21 @@ I am currently learning to program to become a full stack :rocket:
 </div>
 
 ## Language and Tools
-<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/vscode.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/js.svg" />
-<img align="left" alt="TypeScript" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/typescript.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/html.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/css.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/styled-components.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/node.svg" />
-<img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/express.svg" />
-<img align="left" alt="React" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/react.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/github.svg" />
-<img align="left" alt="Git" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/git.svg" />
-<img align="left" alt="MongoDB" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/mongodb.svg" />
-<img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/postgresql.svg" />
-<img align="left" alt="Terminal" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/terminal.svg" />
-<img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/insomnia.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/vscode.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/js.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/typescript.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/html.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/css.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/styled-components.svg" />
+<img align="left" alt="Node.js" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/node.svg" />
+<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/jonasdevzero/Media-Hub/master/icons/express.svg" />
+<img align="left" alt="React" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/react.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/github.svg" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/jonasdevzero/Media-Hub/master/icons/git.svg" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/jonasdevzero/Media-Hub/master/icons/mongodb.svg" />
+<img align="left" alt="Insomnia" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/postgresql.svg" />
+<img align="left" alt="Terminal" width="30px" src="https://github.com/jonasdevzero/MediaHub/blob/master/icons/terminal.svg" />
+<img align="left" alt="Insomnia" width="30px" src="https://raw.githubusercontent.com/jonasdevzero/Media-Hub/master/icons/insomnia.svg" />
 
 <br /><br />
   
